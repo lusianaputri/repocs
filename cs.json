@@ -491,30 +491,30 @@
     "description": "Streaming Movie and TV Series",
     "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/KlikXXi.cs3",
     "name": "KlikXXi"
-    },
-    {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww192.pencurimoviesubmalay.motorcycles&size=%size%",
-        "jarFileSize": 111548,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/duro92/ExtCloud",
-        "fileSize": 31246,
-        "status": 1,
-        "language": "id",
-        "authors": [
+  },
+  {
+      "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww192.pencurimoviesubmalay.motorcycles&size=%size%",
+   "jarFileSize": 111548,
+   "apiVersion": 1,
+   "repositoryUrl": "https://github.com/duro92/ExtCloud",
+    "fileSize": 31246,
+    "status": 1,
+    "language": "id",
+    "authors": [
             "Duro92"
         ],
-        "tvTypes": [
+    "tvTypes": [
             "Movie",
             "TvSeries"
         ],
-        "version": 1,
-        "internalName": "Pmsm",
-        "jarUrl": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Pmsm.jar",
-        "description": "PMSM (Pencuri Movie Sub Malay)",
-        "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Pmsm.cs3",
-        "name": "Pmsm"
-    },
-    {
+    "version": 1,
+    "internalName": "Pmsm",
+    "jarUrl": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Pmsm.jar",
+    "description": "PMSM (Pencuri Movie Sub Malay)",
+    "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Pmsm.cs3",
+    "name": "Pmsm"
+  },
+  {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://v1.samehadaku.how&size=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/duro92/ExtCloud",
@@ -534,8 +534,8 @@
         "internalName": "Samehadaku",
         "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Samehadaku.cs3",
         "name": "Samehadaku"
-    },
-    {
+  },
+  {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sflix.film&size=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/duro92/ExtCloud",
@@ -556,8 +556,8 @@
         "description": "Sflix - Movie & Series subtitle indonesia",
         "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Sflix.cs3",
         "name": "Sflix"
-    },
-    {
+  },
+  {
         "iconUrl": "https://alkhalifitv.github.io/TV/logo/Sarangfilm.png",
         "jarFileSize": 114862,
         "apiVersion": 1,
@@ -579,8 +579,8 @@
         "description": "Sarangfilm - Streaming Movie and TV Series",
         "url": "https://alkhalifitv.github.io/TV/cs3/Sarangfilm.cs3",
         "name": "Sarangfilm"
-    },
-    {
+  },
+  {
         "iconUrl": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Sushan64/NetMirror-Extension",
@@ -599,8 +599,8 @@
         "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
         "url": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/builds/Netmirror.cs3",
         "name": "Netmirror"
-    },
-    {
+  },
+  {
         "iconUrl": "https://www.youtube.com/s/desktop/711fd789/img/logos/favicon_144x144.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
@@ -617,8 +617,8 @@
         "description": "Videos, playlists and channels from YouTube",
         "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/YouTube.cs3",
         "name": "YouTube"
-    },
-    {
+  },
+  {
         "iconUrl": "",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
@@ -636,5 +636,5 @@
         "description": "",
         "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/IPTV.cs3",
         "name": " "
-    },
+  }
         ]
