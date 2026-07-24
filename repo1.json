@@ -1,0 +1,9 @@
+{
+  "name": "FB:BAYU STECU",
+  "description": "Link FB: https://facebook.com/bayustecu",
+  "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEg-DiWsNJTM92EbSNWXWWbk8wKtt2mUJKkpdw4zonZw&s",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/lusianaputri/repocs/refs/heads/main/cs1.json"
+  ]
+}
